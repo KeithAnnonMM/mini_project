@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869614932571",
+    "project_id": "authenticheck-bee57",
+    "storage_bucket": "authenticheck-bee57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869614932571:android:400abce4ab05f3dcf8e57e",
+        "android_client_info": {
+          "package_name": "com.keith.martha.miniproject.authenticheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869614932571-hjhh0vtv21q685sc0ohnsb59k35ahb1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYHDu9b40z01j_Fpex64xXxBb4arN5fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869614932571-hjhh0vtv21q685sc0ohnsb59k35ahb1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
